@@ -1,0 +1,13 @@
+Car wiper control system is one of the updating system in the technology of the car services the wipers are very useful for the procesing of many uses
+The wiper serves to clean the windshield of the car at the front and rear, although not all cars have wipers on the
+rear side. WIper works by removing oil, dust, rainwater, and dirt that get stuck to the windshield.
+the indication of the car wipers in our control systems is given by the working of the LED.
+Blue,green,orange LEDs are usedfor the processing.
+come on and off are alternatively set at a frequency.
+key position at ACC the red LED is on condition if the user button is pressed and held for 2 seconds.
+wiper on,wiper is off on press of the user input,blue,green amd orange LEDS come on condition one at atime with the set frequency
+The frequency changes on every alternative key press,3 frequency levels with 1,4and 8HZ.
+
+wiper off,wiper is on condition the LED glowp patteren stops on the 4th press, the wiper action starts next press onwards as
+mentioned in the next step.
+The red LED is off if the user button is pressed and input held for 2 sec.
