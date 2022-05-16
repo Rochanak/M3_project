@@ -1,0 +1,6 @@
+CAR WIPER CONTROL SYSTEM
+For the processing of the wiper code we consider the three LED's
+1)Blue LED
+2)Green LED
+3)Orange LED
+The total work of the code is depends on the LED blinkling as that shows the condition of the wiper controlling system working.
